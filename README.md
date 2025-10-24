@@ -16,9 +16,3 @@ Whether you're a **student**, **teacher**, or **professional**, our platform pro
 ### 🎥 Visualize Algorithms from Code  
 Algorithm Visualizer allows you to **witness algorithms in action** by visualizing code written in different programming languages.  
 This visual approach facilitates a **better understanding of algorithmic behavior**.  
-
-### 📚 Learn About Algorithms  
-Explore our collection of **tutorials, articles, and videos** that serve as valuable resources for learning algorithms.  
-
----
-
